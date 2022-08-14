@@ -1,35 +1,6 @@
-# Minting DAPP
+# Minting DAPP based on codeSTACKr
 
-## Table of Contents
-
-- [RESOURCES](#resources)
-- [INSTALLATION](#installation)
-- [COMMANDS](#commands)
-
-## RESOURCES
-
-Video: 
-
-🌟 [EASY Minting dApp | Whitelisting | Entire Process!! Create an Entire NFT Collection (10,000+)](https://youtu.be/cLB7u0KQFIs)
-
-Base art generator code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-
-Contract uses [NFTPort](https://nftport.xyz)
-
-Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
-
-## INSTALLATION
-
-### Backend
-
-- Clone this repo or download the latest release zip file.
-- Unzip, if needed, and open the folder in VS Code.
-- From the terminal run: 
-```
- npm install
-```
-- Copy your image layers into the `/backend/layers` folder.
-- Use the `/backend/src/config.js` file to set up your layers and NFT information.
+## Lovelorn Fufuu https://opensea.io/collection/lovelornfufu-1
 
 ## COMMANDS
 
@@ -132,5 +103,3 @@ $ npm run refresh_os --start=1 --end=100
 
 - Refreshes the listing for the specified editions on OpenSea.
 - Both the `--start` and `--end` flags are required.
-
-## Reference the [video](https://youtu.be/cLB7u0KQFIs) for more details.
